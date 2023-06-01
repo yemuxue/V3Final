@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\AlisonXuanwz\Desktop\C++\.vscode\C++\FinalHomework\Third_edition\TCP.cpp">
+    <ClCompile Include="TCP.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
